@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocelot.Api.Gateway.Asp.Net.Core", "Ocelot.Api.Gateway.Asp.Net.Core\Ocelot.Api.Gateway.Asp.Net.Core.csproj", "{FB4CF846-FBF7-45B8-B883-ED24935FD558}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ocelot.Api.Test.Asp.Net.Core", "Ocelot.Api.Test.Asp.Net.Core\Ocelot.Api.Test.Asp.Net.Core.csproj", "{9C41031B-E6B9-46CF-A5A1-62C50D530554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB4CF846-FBF7-45B8-B883-ED24935FD558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4CF846-FBF7-45B8-B883-ED24935FD558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4CF846-FBF7-45B8-B883-ED24935FD558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4CF846-FBF7-45B8-B883-ED24935FD558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C41031B-E6B9-46CF-A5A1-62C50D530554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C41031B-E6B9-46CF-A5A1-62C50D530554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C41031B-E6B9-46CF-A5A1-62C50D530554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C41031B-E6B9-46CF-A5A1-62C50D530554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0587DF8C-F1C7-4B14-A91A-2CBA01BE2FD8}
+	EndGlobalSection
+EndGlobal
